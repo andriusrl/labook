@@ -42,12 +42,14 @@ Esse endpoint deve receber um tipo ("normal" ou "evento") e retornar todos os po
 
 ### - TypeScript
 ### - Node
+### - Express
 ### - MySQL
 ### - UUID
 ### - BcryptJS
 ### - Jsonwebtoken
 
 # Arquitetura 
+
 ### - MVC
 
 # Comandos para recriar bando de dados
